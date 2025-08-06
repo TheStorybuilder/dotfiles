@@ -1,0 +1,68 @@
+#gitignore file for a macOS development environment
+.amazon-q.dotfiles.bak
+.amplify
+.aws
+.bash_history
+.bash_profile
+.bashrc
+.bundle
+.cache
+.cargo
+.cdk
+.CFUserTextEncoding
+.conda
+.condarc
+.config
+.continue
+.cups
+.cursor
+.cursor-tutor
+.docker
+.dotfiles
+.dropbox
+.DS_Store
+.gemini
+.gitconfig
+# .gitignore
+.hex
+.ipython
+.irb_history
+.jupyter
+.lesshst
+.lmstudio
+.lmstudio-home-pointer
+.local
+.matplotlib
+.mix
+.node_repl_history
+.npm
+.nvm
+.oh-my-zsh
+.ollama
+.oracle_jre_usage
+# .p10k.zsh
+.pnpm-state
+.pnpm-store
+.profile
+.psql_history
+.python_history
+.rustup
+.ssh
+.swiftpm
+.terminfo
+.tmux
+# .tmux.conf
+.Trash
+.vim
+.viminfo
+.vimrc
+.vscode
+.wget-hsts
+.zcompdump
+.zcompdump-MacBook Air-5.9
+.zcompdump-MacBook Air-5.9.zwc
+.zcompdump-MacBook-Air-5.9
+.zcompdump-MacBook-Air-5.9.zwc
+.zsh_history
+.zsh_sessions
+#.zshrc
